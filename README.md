@@ -3,7 +3,7 @@
 **Telegram trading bot on Solana with ZERO UNFEE.**  
 Trade directly, securely, and seamlessly with absolute zero tax.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : 7S5Q92xuBHD35zdnpPVrRPU4pvNSz3L2iAndV1pnpump
 ---
 
 ## 🚀 About Unfee
